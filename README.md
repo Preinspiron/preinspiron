@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Volodymyr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from <span style="text color=red">U</span>kraine</h3>
+<h3 align="center">Computer science student, IT news writer from <span style='color:red'>U</span>kraine</h3>
