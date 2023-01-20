@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from <span style='color:red'>U</span>kraine</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preinspiron)](https://github.com/anuraghazra/github-readme-stats)
+
