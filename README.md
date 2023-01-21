@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there </h1>
-<h2 align="center">Computer science student, IT news writer from <span style='color:red'>U</span>kraine</h2>
+<h2 align="center">Computer science student from <span color="red">U </span>kraine</h2>
 
 
