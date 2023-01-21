@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <span style="color:red;">there</span> </h1>
+<h1 align="center">Hi there </h1>
 <h2 align="center">Computer science student from <span>U</span>kraine</h2>
+
+
 
 
